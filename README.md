@@ -1,3 +1,5 @@
+<img src="https://github.com/Stxfhxn/Stxfhxn/blob/main/banner.png?raw=true" alt="Banner de Stefhan Finschi" style="width: 100%; border-radius: 10px;" />
+
 # 👋 ¡Hola! Soy Stefhan Finschi
 
 🎓 Titulado en Ingeniería en Sonido y actualmente finalizando el Técnico de Nivel Superior en Análisis y Programación Computacional. Me muevo entre el mundo creativo y el lógico, combinando habilidades técnicas con multimedia.
