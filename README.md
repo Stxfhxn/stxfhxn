@@ -1,4 +1,4 @@
-<img src="https://github.com/Stxfhxn/Stxfhxn/blob/main/Banner3.png?raw=true" alt="Banner de Stefhan Finschi" style="width: 100%; border-radius: 10px;" />
+<img src="https://github.com/Stxfhxn/Stxfhxn/blob/main/banner 4.png?raw=true" alt="Banner de Stefhan Finschi" style="width: 100%; border-radius: 10px;" />
 
 # 👋 ¡Hola! Soy Stefhan Finschi
 
