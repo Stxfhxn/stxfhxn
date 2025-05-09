@@ -2,7 +2,10 @@
 
 # 👋 ¡Hola! Soy Stefhan Finschi
 
-🎓 Titulado en Ingeniería en Sonido y actualmente finalizando el Técnico de Nivel Superior en Análisis y Programación Computacional. Me muevo entre el mundo creativo y el lógico, combinando habilidades técnicas con multimedia.
+~+ 🎓 Titulado en Ingeniería en Sonido.+~ (2018)
+
+~+ Técnico de Nivel Superior en Análisis y Programación Computacional. +~ (EN BUSCA DE PRACTICA)
+
 
 💻 Me apasiona aprender, resolver problemas y desarrollar soluciones tecnológicas. 
 
@@ -11,7 +14,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 - **Lenguajes**: Python, Java, SQL, HTML/CSS
-- **Bases de datos**: MySQL, SQLite
+- **Bases de datos**: MySQL
 - **Calidad de software (QA)**: documentación de pruebas, análisis funcional, detección de errores
 - **Versionamiento**: Git / GitHub
 - **En curso**: desarrollo de aplicaciones y estructuras backend
