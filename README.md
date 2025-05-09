@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Stefhan Finschi
 
-~+ 🎓 Titulado en Ingeniería en Sonido.+~ (2018)
++ 🎓 Titulado en Ingeniería en Sonido.+ (2018)
 
 ~+ Técnico de Nivel Superior en Análisis y Programación Computacional. +~ (EN BUSCA DE PRACTICA)
 
