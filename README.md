@@ -7,7 +7,7 @@
 ~+ Técnico de Nivel Superior en Análisis y Programación Computacional. +~ (PRACTICANTE EN ILUSTRE MUNICIPALIDAD DE AYSEN)
 
 
-💻 Me apasiona aprender, resolver problemas y desarrollar soluciones tecnológicas. 
+💻 Me apasiona aprender, resolver problemas y desarrollar soporte a soluciones tecnológicas. 
 
 ---
 
