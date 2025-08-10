@@ -4,7 +4,7 @@
 
 + 🎓 Titulado en Ingeniería en Sonido. (2018)
 
-~+ Técnico de Nivel Superior en Análisis y Programación Computacional. +~ (EN BUSCA DE PRACTICA)
+~+ Técnico de Nivel Superior en Análisis y Programación Computacional. +~ (PRACTICANTE EN ILUSTRE MUNICIPALIDAD DE AYSEN)
 
 
 💻 Me apasiona aprender, resolver problemas y desarrollar soluciones tecnológicas. 
